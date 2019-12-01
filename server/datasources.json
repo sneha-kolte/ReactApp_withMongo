@@ -1,0 +1,24 @@
+{
+  "db_1": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "meetupz-app",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  },
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "emp_list-app",
+    "password": "",
+    "name": "emp_list",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
